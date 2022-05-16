@@ -21,6 +21,9 @@ furthermore some additional working implementations that have advantages as well
 
 The aim of this project is to show how to use certain implementations and reap their benefits.<br>
 Since there are quite a few of them, I will show only a few.
+*The source code is for demonstration purposes only for a knowledge-share session whose slides can be found below.*<br>
+**[Presentation](Python_implementations.pptx)**
+
 
 #### Examples
 1. [Jython demo](./Jython/ReadMe.md) - presents two varieties of usage of this implementation. 
